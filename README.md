@@ -19,10 +19,10 @@
 # Screenshots
 
 - Blog home
-  - ![Blog Home](https://github.com/tj-wells/Django-React-Template/blob/master/screenshots/blog_home.jpg?raw=true)
+  - ![Blog Home](https://github.com/tj-wells/Django-React-Template/blob/master/screenshots/blog_home.png?raw=true)
 - Admin Area
-  - ![Admin Area](https://github.com/tj-wells/Django-React-Template/blob/master/screenshots/admin_area.jpg?raw=true)
+  - ![Admin Area](https://github.com/tj-wells/Django-React-Template/blob/master/screenshots/admin_area.png?raw=true)
 - New Post with image upload
-  - ![New Post](https://github.com/tj-wells/Django-React-Template/blob/master/screenshots/new_post.jpg?raw=true)
+  - ![New Post](https://github.com/tj-wells/Django-React-Template/blob/master/screenshots/new_post.png?raw=true)
 - Automatically generated API documentation
-  - ![docs](https://github.com/tj-wells/Django-React-Template/blob/master/screenshots/docs.jpg?raw=true)
+  - ![docs](https://github.com/tj-wells/Django-React-Template/blob/master/screenshots/docs.png?raw=true)
